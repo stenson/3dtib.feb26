@@ -20,6 +20,8 @@ captions = [
     "Reid Miles",
     "TBWA\\Media Arts Lab",
     "GMUNK",
+    "Saul Bass",
+    "Robert Brownjohn",
 ]
 
 @animation((2000, 80)

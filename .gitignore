@@ -2,7 +2,6 @@
 *.png
 *.jpg
 renders
-presentation_videos.key
-presentation_stills.key
-presentation_stills.pdf
+presentation_videos*
+presentation_stills*
 _DownloadedFonts
