@@ -6,3 +6,4 @@
 - `uvx b3denv`
 
 - Discord: https://discord.gg/a5FtJCMj
+
