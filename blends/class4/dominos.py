@@ -67,4 +67,4 @@ def setup(bpw:BpyWorld):
     for dm in dominos:
         (dm.apply_transform()
             .origin_to_geometry()
-            .rigidbody(mass=10, friction=0.35, deactivated=True))
+            .rigidbody(mass=10, friction=0.95, deactivated=True))

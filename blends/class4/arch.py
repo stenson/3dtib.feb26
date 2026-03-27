@@ -50,6 +50,6 @@ def arch(r):
         .ch(b3d(lambda bp: bp
             .extrude(1.0)
             .convert_to_mesh()
-            .rigidbody(friction=1, bounce=0)
+            .rigidbody(friction=0, bounce=0)
             , upright=1
             , zero=1))))
